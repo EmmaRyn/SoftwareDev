@@ -1,0 +1,19 @@
+Emma Kwiatkowski Sept. 9, 2014 (c)
+
+DROP DATABASE cb_contactdjp;
+
+DROP TABLE cb_contactdjp.ekk_contact;
+
+CREATE DATABASE cb_contactdjp;
+
+CREATE TABLE cb_contactdjp.ekk_contact;
+
+INSERT INTO cb_contactdjp.ekk_contact (FirstName, MiddleName, LastName, Email, Major)
+VALUES ('Snow', 'A', 'White', 'grannysmith@forest.com', 'Geography'),
+('Grumpy', 'The', 'Dwarf', 'goaway@forest.com', 'Human Service Studies'),
+('Bashful', 'The', 'Dwarf', 'imshy@forest.com', 'Communications'),
+('Doc', 'The', 'Dwarf', 'icanhelp@forest.com', 'Medicine'),
+('The', 'Evil', 'Queen', 'downwithsnow@forest.com', 'Social Work');
+
+SELECT *
+FROM cb_contactdjp.ekk_contact;

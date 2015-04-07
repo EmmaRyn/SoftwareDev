@@ -1,0 +1,6 @@
+grant 
+{  
+   permission java.security.AllPermission;
+   permission java.lang.RuntimePermission "getenv.*";
+   permission java.awt.AWTPermission "showWindowWithoutWarningBanner";
+};

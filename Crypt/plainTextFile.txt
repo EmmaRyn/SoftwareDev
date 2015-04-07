@@ -1,0 +1,20 @@
+Elon University has a leading edge Computer Science Department with
+state of the art software and hardware. For example, during the 
+summer of 2011 the student computing lab, Carpenter Lab, had:
+
+1. 12 Apple 27inch IMacs with 12 Gigabytes of memory installed. Each machine
+   had either one or two additional 21/23 inch displays added.
+2. 2 Apple MacPro desktops with 10 Gigabytes of memory installed. 
+
+These machines will be replaced during the summer of 2015. 
+  
+During the summer of 2014, the software was updated to include:
+
+1. Eclipse Luna 4.4 Enterprise version.
+2. ArgoUML version 0.34
+3. MySQL 5.6
+4. NetBeans 8.0
+5. Glassfish 4.0
+6. Java SDK 8.0
+7. Tomcat 8.0
+8. Maverick OSX
